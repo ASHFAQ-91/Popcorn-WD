@@ -1,0 +1,35 @@
+/*************************************TAG SELECTORS******************************************/
+body {
+    background-repeat:no-repeat;
+    background-size:100% 150%;
+}
+h1 {
+    text-align:center;
+    color:rgb(70, 103, 204);
+    font-family:comic sans ms;
+    font-size:500%;
+}
+img {
+    border-width:7px;
+    border-style:dashed solid;
+    border-color:rgb(58, 56, 56);
+    /* width:450px;
+    height:300px; */
+}
+img:hover {
+    background-color:gold;
+}
+/*************************************CLASS SELECTORS*****************************************/
+.Popcorn {
+    background-color:green;
+}
+.broccoli {
+    background-color:red;
+}
+.circular {
+    border-radius:100%;
+}
+/************************************ID SELECTORS*********************************************/
+#heading {
+    color:aqua;
+}
